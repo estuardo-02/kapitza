@@ -5,7 +5,7 @@ Este repositorio contiene una simulación en MATLAB del péndulo invertido de **
 ## 🎥 Video explicativo (en español)
 
 Puedes ver una explicación detallada de este sistema en el siguiente video de YouTube:  
-📺 [https://youtu.be/EAG9uApAa9A](https://youtu.be/EAG9uApAa9A)
+📺 [https://youtu.be/Jq6Rg5EWciM](https://youtu.be/Jq6Rg5EWciM)
 
 ## 🧠 Descripción del sistema
 
